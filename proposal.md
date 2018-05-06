@@ -1,11 +1,11 @@
 # PROJECT DESCRIPTION
 
 ##     Problem Statement
-        For many years now, I have had a major problem with getting up to my alarm. I will hit the snooze button several times on most mornings. But, I've also realized I'm not alone with this problem.
+        *For many years now, I have had a major problem with getting up to my alarm. I will hit the snooze button several times on most mornings. But, I've also realized I'm not alone with this problem.
 
-        A quick Google search on this issue resulted in many articles- ranging from Business Insider to Huffington Post to AARP to Slate to Men's Health. All of them are either about how to quit hitting the snooze button or about it's ill effects.
+        *A quick Google search on this issue resulted in many articles- ranging from Business Insider to Huffington Post to AARP to Slate to Men's Health. All of them are either about how to quit hitting the snooze button or about it's ill effects.
 
-        There is most definitely something psychological at the root of the problem. But until someone solves that, or I solve it for myself, there can be some adjustments made to the alarm "clock", itself. Enter the Lights Out Alarm.
+        *There is most definitely something psychological at the root of the problem. But until someone solves that, or I solve it for myself, there can be some adjustments made to the alarm "clock", itself. Enter the Lights Out Alarm.
 
 ##     How My Project Solve This Problem
         This project will be an app integrated with minimal hardware that will allow the user to wake up closer to the time they initially desired. By shutting off only when the light sensor on the hardware reads that the lights in the room have been turned on, it will make going back to sleep after hitting the snooze button much more difficult.
