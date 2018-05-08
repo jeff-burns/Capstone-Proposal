@@ -7,7 +7,7 @@
 
 * There is most definitely something psychological at the root of the problem. But until someone solves that, or I solve it for myself, there can be some adjustments made to the alarm "clock", itself. Enter the Lights Out Alarm.
 
-### How My Project Solve This Problem
+### How My Project Will Solve This Problem
 * This project will be an app integrated with minimal hardware that will allow the user to wake up closer to the time they initially desired. By shutting off only when the light sensor on the hardware reads that the lights in the room have been turned on, it will make going back to sleep after hitting the snooze button much more difficult.
 
 * It will also track the user data, which can help the user see if it's working and, if not, what can be adjusted. This will be a post to a database on the time it took for the lights to turn on each time used.
